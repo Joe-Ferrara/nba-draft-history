@@ -82,7 +82,8 @@ class PlayersStatsPipeline(object):
                              ")")
 
     def open_spider(self, spider):
-        self.cnx = mysql.connector.connect(user='jferrara', password='kr3EZ@7lR1', host='localhost', database='nba_history_and_stats')
+        # MySQL connection with user information removed
+        cnx = mysql.connector.connect(user=user, password=password, host='localhost', database='nba_history_and_stats')
         self.cursor = self.cnx.cursor()
 
     def close_spider(self, spider):

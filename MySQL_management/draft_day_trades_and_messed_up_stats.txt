@@ -1,0 +1,3790 @@
+*********************************
+**** number of players: 2786 ****
+*********************************
+
+*******************************
+**** number of trades: 717 ****
+*******************************
+
+**************************************
+**** number of missing stats: 751 ****
+**************************************
+
+Year: 2019
+  De'Andre Hunter traded from LAL to ATL.
+  Jarrett Culver traded from PHO to MIN.
+  Jaxson Hayes traded from ATL to NOP.
+  Cameron Johnson traded from MIN to PHO.
+  Nickeil Alexander-Walker traded from BRK to NOP.
+  Matisse Thybulle traded from BOS to PHI.
+  Brandon Clarke traded from OKC to MEM.
+  Darius Bazley traded from UTA to OKC.
+  Ty Jerome traded from PHI to PHO.
+  Mfiondu Kabengele traded from BRK to LAC.
+  Kevin Porter traded from MIL to CLE.
+  KZ Okpala traded from PHO to MIA.
+  Carsen Edwards traded from PHI to BOS.
+  Bruno Fernando traded from PHI to ATL.
+  Alen Smailagić traded from NOP to GSW.
+  Admiral Schofield traded from PHI to WAS.
+  Ignas Brazdeikis traded from SAC to NYK.
+Year: 2011
+  Bismack Biyombo traded from SAC to TOR.
+  Jimmer Fredette traded from MIL to SAC.
+  Kawhi Leonard traded from IND to SAS.
+  Tobias Harris traded from CHA to MIL.
+  Donatas Motiejūnas traded from MIN to HOU.
+  Nikola Mirotić traded from HOU to CHI.
+  MarShon Brooks traded from BOS to NJN.
+  Jordan Hamilton traded from DAL to DEN.
+  Norris Cole traded from CHI to MIA.
+  Bojan Bogdanović traded from MIA to BRK.
+  Justin Harper traded from CLE to ORL.
+  Jeremy Tyler traded from CHA to GSW.
+  Dāvis Bertāns traded from IND to SAS.
+  Malcolm Lee traded from CHI to MIN.
+  Josh Harrellson traded from NOH to NYK.
+Year: 2018
+  Luka Dončić traded from ATL to DAL.
+  Trae Young traded from DAL to ATL.
+  Mikal Bridges traded from PHI to PHO.
+  Shai Gilgeous-Alexander traded from CHO to LAC.
+  Miles Bridges traded from LAC to CHO.
+  Zhaire Smith traded from PHO to PHI.
+  Devonte' Graham traded from ATL to CHO.
+  Khyri Thomas traded from PHI to DET.
+  Isaac Bonga traded from PHI to LAL.
+  Jarred Vanderbilt traded from ORL to DEN.
+  Hamidou Diallo traded from BRK to OKC.
+  De'Anthony Melton traded from HOU to PHO.
+  Shake Milton traded from DAL to PHI.
+  Ray Spalding traded from PHI to PHO.
+Year: 2014
+  Andrew Wiggins traded from CLE to MIN.
+  Noah Vonleh traded from CHH to CHO.
+  Elfrid Payton traded from PHI to ORL.
+  Doug McDermott traded from DEN to CHI.
+  Dario Šarić traded from ORL to PHI.
+  Jusuf Nurkić traded from CHI to DEN.
+  Gary Harris traded from CHI to DEN.
+  Bruno Caboclo traded from TOR to SAC.
+  Shabazz Napier traded from CHH to MIA.
+  P.J. Hairston traded from MIA to CHO.
+  Bogdan Bogdanović traded from PHO to SAC.
+  Glenn Robinson traded from MIN to MIL.
+  Markel Brown traded from MIN to BRK.
+  Dwight Powell traded from CHH to DAL.
+  Jordan Clarkson traded from WAS to LAL.
+  Russ Smith traded from PHI to MEM.
+  Lamar Patterson traded from MIL to ATL.
+  Thanasis Antetokounmpo traded from NYK to MIL.
+  Semaj Christon traded from MIA to OKC.
+  Devyn Marble traded from DEN to ORL.
+  Jordan McRae traded from SAS to PHO.
+  Cory Jefferson traded from SAS to BRK.
+Year: 2010
+  Derrick Favors traded from NJN to UTA.
+  Ekpe Udoh traded from GSW to MIL.
+  Luke Babbitt traded from MIN to POR.
+  Kevin Séraphin traded from CHI to WAS.
+  Eric Bledsoe traded from OKC to LAC.
+  Craig Brackins traded from OKC to PHI.
+  Trevor Booker traded from MIN to WAS.
+  Damion James traded from ATL to NJN.
+  Dominique Jones traded from MEM to DAL.
+  Quincy Pondexter traded from OKC to NOH.
+  Jordan Crawford traded from NJN to ATL.
+  Lazar Hayward traded from WAS to MIN.
+  Tibor Pleiß traded from NJN to UTA.
+  Hassan Whiteside traded from SAC to MIA.
+  Nemanja Bjelica traded from WAS to MIN.
+Year: 2017
+  Lauri Markkanen traded from MIN to CHI.
+  Zach Collins traded from SAC to POR.
+  Donovan Mitchell traded from DEN to UTA.
+  Justin Jackson traded from POR to SAC.
+  Justin Patton traded from CHI to PHI.
+  Harry Giles traded from POR to SAC.
+  Tyler Lydon traded from UTA to DEN.
+  Anžejs Pasečņiks traded from ORL to WAS.
+  Kyle Kuzma traded from BRK to LAL.
+  Tony Bradley traded from LAL to UTA.
+  Josh Hart traded from UTA to LAL.
+  Frank Jackson traded from CHO to NOP.
+  Ivan Rabb traded from ORL to MEM.
+  Jordan Bell traded from CHI to GSW.
+  Jawun Evans traded from PHI to LAC.
+  Dwayne Bacon traded from NOP to CHO.
+  Thomas Bryant traded from UTA to LAL.
+  Dillon Brooks traded from HOU to MEM.
+  Sterling Brown traded from PHI to MIL.
+  Sindarius Thornwell traded from MIL to LAC.
+  Edmond Sumner traded from NOP to IND.
+  Jaron Blossomgame traded from SAS to CLE.
+Year: 2012
+  Thomas Robinson traded from SAC to HOU.
+  Jeremy Lamb traded from HOU to OKC.
+  Maurice Harkless traded from PHI to ORL.
+  Tyler Zeller traded from DAL to CLE.
+  Jared Cunningham traded from CLE to DAL.
+  Bernard James traded from CLE to DAL.
+  Jae Crowder traded from CLE to DAL.
+  Orlando Johnson traded from SAC to IND.
+  Tyshawn Taylor traded from POR to BRK.
+  Justin Hamilton traded from PHI to MIA.
+  Kostas Papanikolaou traded from NYK to HOU.
+  Furkan Aldemir traded from LAC to PHI.
+  Tornike Shengelia traded from PHI to BRK.
+  Darius Johnson-Odom traded from DAL to PHI.
+Year: 2006
+  LaMarcus Aldridge traded from CHI to POR.
+  Tyrus Thomas traded from POR to CHI.
+  Brandon Roy traded from MIN to POR.
+  Randy Foye traded from BOS to MIN.
+  Rudy Gay traded from HOU to MEM.
+  Patrick O'Bryant traded from GSW to TOR.
+  Hilton Armstrong traded from NOK to NOH.
+  Thabo Sefolosha traded from PHI to CHI.
+  Rodney Carney traded from CHI to PHI.
+  Rajon Rondo traded from PHO to BOS.
+  Sergio Rodríguez traded from PHO to POR.
+  James White traded from POR to SAS.
+  P.J. Tucker traded from TOR to PHO.
+  Bobby Jones traded from MIN to PHI.
+  Dee Brown traded from UTA to BOS.
+  Leon Powe traded from DEN to BOS.
+  Ryan Hollins traded from CHA to MIN.
+  Cheikh Samb traded from LAL to LAC.
+  Damir Markota traded from SAS to MIL.
+Year: 2008
+  O.J. Mayo traded from MIN to MEM.
+  Russell Westbrook traded from SEA to OKC.
+  Kevin Love traded from MEM to MIN.
+  Jerryd Bayless traded from IND to POR.
+  Brandon Rush traded from POR to IND.
+  Roy Hibbert traded from TOR to IND.
+  Kosta Koufos traded from UTA to MIN.
+  Serge Ibaka traded from SEA to OKC.
+  Nicolas Batum traded from HOU to POR.
+  Darrell Arthur traded from NOH to MEM.
+  Donté Greene traded from MEM to SAC.
+  D.J. White traded from DET to CHA.
+  Walter Sharpe traded from SEA to DET.
+  Joey Dorsey traded from POR to HOU.
+  Mario Chalmers traded from MIN to MIA.
+  Ömer Aşık traded from POR to HOU.
+  Kyle Weaver traded from CHA to OKC.
+  Sonny Weems traded from CHI to DEN.
+  Nathan Jawai traded from IND to MIN.
+  Sean Singletary traded from SAC to PHO.
+  Patrick Ewing traded from SAC to NYK.
+  Goran Dragić traded from SAS to PHO.
+  Henry Walker traded from WAS to BOS.
+  Malik Hairston traded from PHO to SAS.
+  Darnell Jackson traded from MIA to CLE.
+  Mike Taylor traded from POR to LAC.
+  Joe Crawford traded from LAL to NYK.
+Year: 2007
+  Jeff Green traded from BOS to SEA.
+  Brandan Wright traded from CHA to GSW.
+  Julian Wright traded from NOK to NOH.
+  Jason Smith traded from MIA to PHI.
+  Daequan Cook traded from PHI to MIA.
+  Rudy Fernández traded from PHO to POR.
+  Carl Landry traded from SEA to HOU.
+  Nick Fazekas traded from DAL to LAC.
+  Glen Davis traded from SEA to BOS.
+  Josh McRoberts traded from POR to IND.
+  Kyrylo Fesenko traded from PHI to UTA.
+  Derrick Byars traded from POR to SAS.
+  Marc Gasol traded from LAL to MEM.
+  Demetris Nichols traded from POR to NYK.
+Year: 2016
+  Marquese Chriss traded from SAC to PHO.
+  Domantas Sabonis traded from ORL to OKC.
+  Taurean Waller-Prince traded from UTA to ATL.
+  Georgios Papagiannis traded from PHO to SAC.
+  Caris LeVert traded from IND to BRK.
+  Malachi Richardson traded from CHO to SAC.
+  Skal Labissière traded from PHO to SAC.
+  Damian Jones traded from GSW to ATL.
+  Deyonta Davis traded from BOS to ATL.
+  Cheick Diallo traded from LAC to NOP.
+  Patrick McCaw traded from MIL to GSW.
+  Isaiah Whitehead traded from UTA to BRK.
+  Jake Layman traded from ORL to POR.
+  Kay Felder traded from ATL to CLE.
+  Marcus Paige traded from BRK to CHO.
+  Daniel Hamilton traded from DEN to ATL.
+  Tyrone Wallace traded from UTA to LAC.
+Year: 2001
+  Tyson Chandler traded from LAC to CHI.
+  Pau Gasol traded from ATL to MEM.
+  Eddie Griffin traded from NJN to HOU.
+  Richard Jefferson traded from HOU to NJN.
+  Steven Hunter traded from ORL to PHO.
+  Jason Collins traded from HOU to NJN.
+  Brendan Haywood traded from CLE to WAS.
+  Brandon Armstrong traded from HOU to NJN.
+  Jamaal Tinsley traded from MEM to IND.
+  Omar Cook traded from ORL to TOR.
+  Terence Morris traded from ATL to HOU.
+  Bobby Simmons traded from SEA to WAS.
+  Sean Lampley traded from CHI to MIA.
+  Kenny Satterfield traded from DAL to DEN.
+Year: 1999
+  Steve Francis traded from VAN to HOU.
+  Jonathan Bender traded from TOR to IND.
+  Corey Maggette traded from SEA to ORL.
+  Jeff Foster traded from GSW to IND.
+  Tim James traded from MIA to CHH.
+  Vonteego Cummings traded from IND to GSW.
+  Jumaine Jones traded from ATL to PHI.
+  Michael Ruffin traded from CHI to WAS.
+  Calvin Booth traded from WAS to SEA.
+  Obinna Ekezie traded from VAN to ATL.
+  Laron Profit traded from ORL to WAS.
+  Gordan Giriček traded from DAL to MEM.
+Year: 1997
+  Keith Van Horn traded from PHI to NJN.
+  Tim Thomas traded from NJN to PHI.
+  Danny Fortson traded from MIL to DEN.
+  Kelvin Cato traded from DAL to POR.
+  Chris Anstey traded from POR to DAL.
+  Scot Pollard traded from DET to SAC.
+  Anthony Parker traded from NJN to PHI.
+  Bobby Jackson traded from SEA to DEN.
+  John Thomas traded from NYK to TOR.
+  Charles Smith traded from MIA to LAC.
+  James Cotton traded from DEN to SEA.
+  Marko Milič traded from PHI to PHO.
+  James Collins traded from PHI to LAC.
+  Stephen Jackson traded from PHO to NJN.
+  Eric Washington traded from ORL to DEN.
+  Predrag Drobnjak traded from WAS to SEA.
+  DeJuan Wheat traded from LAL to MIN.
+  Mark Blount traded from SEA to BOS.
+Year: 2002
+  Mike Dunleavy traded from GSW to HOU.
+  Nenê Hilário traded from NYK to DEN.
+  Jiří Welsch traded from PHI to GSW.
+  Curtis Borchardt traded from ORL to UTA.
+  Ryan Humphrey traded from UTA to MEM.
+  Kareem Rush traded from TOR to LAL.
+  Frank Williams traded from DEN to NYK.
+  John Salmons traded from SAS to PHI.
+  Chris Jefferies traded from LAL to TOR.
+  Dan Dickau traded from SAC to ATL.
+  David Andersen traded from ATL to HOU.
+  Juan Carlos Navarro traded from WAS to MEM.
+  Mario Kasun traded from LAC to ORL.
+  Matt Barnes traded from MEM to LAC.
+  Jamal Sampson traded from UTA to DEN.
+  Darius Songaila traded from BOS to SAC.
+  Luis Scola traded from SAS to HOU.
+Year: 2005
+  Chris Paul traded from NOH to NOK.
+  Ike Diogu traded from GSW to SAC.
+  Nate Robinson traded from PHO to NYK.
+  Jarrett Jack traded from DEN to POR.
+  Linas Kleiza traded from POR to DEN.
+  Ian Mahinmi traded from SAS to DAL.
+  Brandon Bass traded from NOH to NOK.
+  Dijon Thompson traded from NYK to PHO.
+  Lawrence Roberts traded from SEA to MEM.
+  Marcin Gortat traded from PHO to ORL.
+Year: 2004
+  Devin Harris traded from WAS to DAL.
+  Luol Deng traded from PHO to CHI.
+  Jameer Nelson traded from DEN to ORL.
+  Viktor Khryapa traded from NJN to POR.
+  Anderson Varejão traded from ORL to CLE.
+  Jackson Vroman traded from CHI to NOH.
+  Andre Emmett traded from SEA to NJN.
+  Antonio Burks traded from ORL to MEM.
+  Vassilis Spanoulis traded from DAL to HOU.
+  Matt Freije traded from MIA to NOH.
+  Luis Flores traded from HOU to GSW.
+Year: 2013
+  Nerlens Noel traded from NOH to PHI.
+  Trey Burke traded from MIN to UTA.
+  Kelly Olynyk traded from DAL to BOS.
+  Shabazz Muhammad traded from UTA to MIN.
+  Lucas Nogueira traded from BOS to TOR.
+  Shane Larkin traded from ATL to DAL.
+  Gorgui Dieng traded from UTA to MIN.
+  Tim Hardaway traded from NYK to GSW.
+  Andre Roberson traded from MIN to OKC.
+  Rudy Gobert traded from DEN to UTA.
+  Archie Goodwin traded from OKC to PHO.
+  Nemanja Nedović traded from PHO to GSW.
+  Allen Crabbe traded from CLE to POR.
+  Glen Rice traded from PHI to MIA.
+  Nate Wolters traded from WAS to MIL.
+  Jeff Withey traded from POR to NOP.
+  Grant Jerrett traded from POR to UTA.
+  Pierre Jackson traded from PHI to DAL.
+  Ricky Ledo traded from MIL to DAL.
+  Mike Muscala traded from DAL to ATL.
+  Erick Green traded from UTA to DEN.
+  Raul Neto traded from ATL to UTA.
+  James Ennis traded from ATL to MIA.
+  Lorenzo Brown traded from MIN to PHI.
+  Joffrey Lauvergne traded from MEM to DEN.
+Year: 1998
+  Antawn Jamison traded from TOR to GSW.
+  Vince Carter traded from GSW to TOR.
+  Robert Traylor traded from DAL to MIL.
+  Dirk Nowitzki traded from MIL to DAL.
+  Bonzi Wells traded from DET to POR.
+  Keon Clark traded from ORL to DEN.
+  Mirsad Türkcan traded from HOU to MIL.
+  Pat Garrity traded from MIL to PHO.
+  Brian Skinner traded from LAC to PHI.
+  Tyronn Lue traded from DEN to LAL.
+  Felipe López traded from SAS to VAN.
+  Nazr Mohammed traded from UTA to ATL.
+  Ansu Sesay traded from DAL to SEA.
+  Shammond Williams traded from CHI to SEA.
+  Bruno Šundov traded from DAL to IND.
+  Jerome James traded from SAC to SEA.
+  Sean Marks traded from NYK to TOR.
+  Toby Bailey traded from LAL to PHO.
+  Cory Carr traded from ATL to CHI.
+  Tremaine Fowlkes traded from DEN to LAC.
+  Maceo Baston traded from CHI to IND.
+Year: 1995
+  Antonio McDyess traded from LAC to DEN.
+  Shawn Respert traded from POR to MIL.
+  Gary Trent traded from MIL to POR.
+  Brent Barry traded from DEN to LAC.
+  Randolph Childress traded from DET to POR.
+  Terrence Rencher traded from WSB to MIA.
+  Eric Snow traded from MIL to SEA.
+  Mark Davis traded from MIN to PHO.
+  Martin Lewis traded from GSW to TOR.
+  Cuonzo Martin traded from ATL to VAN.
+Year: 1996
+  Stephon Marbury traded from MIL to MIN.
+  Ray Allen traded from MIN to MIL.
+  Efthimi Rentzias traded from DEN to PHI.
+  Martin Müürsepp traded from UTA to MIA.
+  Travis Knight traded from CHI to BOS.
+  Moochie Norris traded from MIL to VAN.
+  Jamie Feick traded from PHI to CHH.
+  Drew Barry traded from SEA to ATL.
+Year: 2000
+  Chris Mihm traded from CHI to CLE.
+  Jamal Crawford traded from CLE to CHI.
+  Joel Przybilla traded from HOU to MIL.
+  Keyon Dooling traded from ORL to LAC.
+  Courtney Alexander traded from ORL to DAL.
+  Jason Collier traded from MIL to HOU.
+  Donnell Harvey traded from NYK to DEN.
+  Mamadou N'Diaye traded from DEN to LAC.
+  Dan Langhi traded from DAL to HOU.
+  Jake Voskuhl traded from CHI to CHA.
+  Eduardo Nájera traded from HOU to DAL.
+  Jason Hart traded from MIL to SAS.
+  Kaniel Dickens traded from UTA to NJN.
+Year: 2009
+  Gerald Henderson traded from CHA to BOS.
+  Ty Lawson traded from MIN to DEN.
+  Byron Mullens traded from DAL to CHA.
+  Rodrigue Beaubois traded from OKC to DAL.
+  Toney Douglas traded from LAL to NYK.
+  Jeff Ayres traded from SAC to IND.
+  Jermaine Taylor traded from WAS to HOU.
+  Jon Brockman traded from POR to MIL.
+  Patrick Beverley traded from LAL to HOU.
+  Marcus Thornton traded from MIA to NOH.
+  Chase Budinger traded from DET to HOU.
+  Nick Calathes traded from MIN to MEM.
+Year: 2015
+  Kelly Oubre traded from ATL to WAS.
+  Jerian Grant traded from WAS to NYK.
+  Rondae Hollis-Jefferson traded from POR to BRK.
+  Tyus Jones traded from CLE to MIN.
+  Larry Nance traded from LAL to PHO.
+  Cedi Osman traded from MIN to CLE.
+  Willy Hernangómez traded from PHI to NYK.
+  Pat Connaughton traded from BRK to POR.
+  Andrew Harrison traded from PHO to MEM.
+  Norman Powell traded from MIL to TOR.
+Year: 2003
+  Marcus Banks traded from MEM to BOS.
+  Troy Bell traded from BOS to MEM.
+  Dahntay Jones traded from BOS to MEM.
+  Kendrick Perkins traded from MEM to BOS.
+  Leandro Barbosa traded from SAS to PHO.
+  Maciej Lampe traded from NYK to PHO.
+  Willie Green traded from SEA to PHI.
+  Zaza Pachulia traded from ORL to MIL.
+  Keith Bogans traded from MIL to ORL.
+  Matt Bonner traded from CHI to TOR.
+  Kyle Korver traded from NJN to PHI.
+Year: 1993
+  Chris Webber traded from ORL to GSW.
+  Anfernee Hardaway traded from GSW to ORL.
+  Greg Graham traded from CHH to PHI.
+  Alphonso Ford traded from PHI to SEA.
+  Eric Riley traded from DAL to HOU.
+  Darnell Mee traded from GSW to DEN.
+  Rich Manning traded from ATL to VAN.
+  Adonis Jordan traded from SEA to MIL.
+  Josh Grant traded from DEN to GSW.
+Year: 1994
+  Carlos Rogers traded from SEA to GSW.
+  Eric Piatkowski traded from IND to LAC.
+  Bill Curley traded from SAS to MIN.
+  Greg Minor traded from LAC to BOS.
+  Antonio Lang traded from PHO to CLE.
+  Jim McIlvaine traded from WSB to SEA.
+  Gaylon Nickerson traded from ATL to SAS.
+  Michael Smith traded from SAC to BOS.
+  Anthony Miller traded from GSW to LAL.
+  Voshon Lenard traded from MIL to MIA.
+  Anthony Goldwire traded from PHO to CHH.
+Year: 1992
+  Doug Christie traded from SEA to LAL.
+  Tracy Murray traded from SAS to POR.
+  Don MacLean traded from DET to WSB.
+  Jon Barry traded from BOS to MIL.
+  Byron Houston traded from CHI to GSW.
+  Elmer Bennett traded from ATL to CLE.
+  Litterial Green traded from CHI to ORL.
+  Popeye Jones traded from HOU to DAL.
+  Sasha Danilović traded from GSW to MIA.
+  Brian Davis traded from PHO to MIN.
+  Matt Fish traded from GSW to LAC.
+Year: 1987
+  Armen Gilliam traded from PHO to CHH.
+  Scottie Pippen traded from SEA to CHI.
+  Olden Polynice traded from CHI to SEA.
+  Dallas Comegys traded from ATL to NJN.
+  Rickie Winslow traded from CHI to MIL.
+  Bob McCann traded from MIL to DET.
+  Tony White traded from CHI to NYK.
+  Brian Rowsom traded from IND to CHH.
+  Doug Lee traded from HOU to NJN.
+  Duane Washington traded from WSB to NJN.
+  Vincent Askew traded from PHI to GSW.
+  Winston Garland traded from MIL to GSW.
+  Donald Royal traded from CLE to MIN.
+  Darryl Johnson traded from GSW to CLE.
+  Kevin Gamble traded from POR to BOS.
+  Eric White traded from DET to LAC.
+  Billy Donovan traded from UTA to NYK.
+  Jack Haley traded from CHI to NJN.
+  Dave Popson traded from DET to MIL.
+  Ron Grandison traded from DEN to BOS.
+Year: 1991
+  Billy Owens traded from SAC to GSW.
+  Anthony Avent traded from ATL to MIL.
+  Kevin Brooks traded from MIL to DEN.
+  Doug Overton traded from DET to WSB.
+  Lamont Strothers traded from GSW to POR.
+  Bobby Phills traded from MIL to CLE.
+Year: 1989
+  Danny Ferry traded from LAC to CLE.
+  Anthony Cook traded from PHO to DEN.
+  Kenny Battle traded from DET to PHO.
+  Pat Durham traded from DAL to MIN.
+  Haywoode Workman traded from ATL to WSB.
+Year: 1984
+  Melvin Turpin traded from WSB to CLE.
+  Tim McCormick traded from CLE to SEA.
+  Terence Stansbury traded from DAL to IND.
+  Tom Sewell traded from PHI to WSB.
+  Michael Young traded from BOS to LAC.
+  Jay Murphy traded from GSW to LAC.
+  Ben Coleman traded from CHI to NJN.
+  David Pope traded from UTA to KCK.
+  Butch Graves traded from PHI to CLE.
+  Jim Grandholm traded from WSB to DAL.
+  Carl Henry traded from KCK to SAC.
+Year: 1977
+  Kent Benson traded from MIL to DET.
+  Otis Birdsong traded from KCK to NJN.
+  Kenny Carr traded from LAL to CLE.
+  Bernard King traded from NJN to GSW.
+  Tom LaGarde traded from DEN to DAL.
+  Ray Williams traded from NYK to NJN.
+  Ernie Grunfeld traded from MIL to KCK.
+  Brad Davis traded from LAL to DAL.
+  Rickey Green traded from GSW to UTA.
+  Mike Glenn traded from CHI to ATL.
+  Glen Gondrezick traded from NYK to DEN.
+  Eddie Jordan traded from CLE to LAL.
+  Mark Landsberger traded from CHI to LAL.
+  Ben Poquette traded from DET to UTA.
+  Jeff Wilkins traded from SAS to UTA.
+  T.R. Dunn traded from POR to DEN.
+  James Edwards traded from LAL to CLE.
+  Joe Hassett traded from SEA to GSW.
+  Robert Smith traded from DEN to MIL.
+  Mike Bratz traded from PHO to SAS.
+  Steve Hayes traded from NYK to CLE.
+  Billy McKinney traded from PHO to DEN.
+Year: 1982
+  Dominique Wilkins traded from UTA to ATL.
+  Fred Roberts traded from MIL to SAS.
+  Michael Wilson traded from CLE to WSB.
+  Joe Kopicki traded from ATL to WSB.
+  Perry Moss traded from BOS to WSB.
+  Mike Sanders traded from KCK to SAS.
+  Chuck Aleksinas traded from CHI to GSW.
+  Tony Brown traded from NJN to IND.
+  John Schweitz traded from BOS to SEA.
+  Eddie Hughes traded from SDC to UTA.
+  Ed Nealy traded from KCK to SAS.
+  Dale Wilkinson traded from PHO to LAC.
+Year: 1980
+  Kelvin Ransey traded from CHI to POR.
+  Ronnie Lester traded from POR to CHI.
+  Kiki Vandeweghe traded from DAL to DEN.
+  Mike Woodson traded from NYK to NJN.
+  Wes Matthews traded from WSB to ATL.
+  Reggie Johnson traded from SAS to KCK.
+  Larry Drew traded from DET to KCK.
+  Don Collins traded from ATL to WSB.
+  Carl Nicks traded from DEN to UTA.
+  Jeff Ruland traded from GSW to WSB.
+  Kenny Natt traded from IND to UTA.
+  Butch Carter traded from LAL to IND.
+  Michael Wiley traded from SAS to SDC.
+  Jawann Oldham traded from DEN to CHI.
+  Brad Branson traded from DET to IND.
+  Kurt Nimphius traded from DEN to DAL.
+  Lowes Moore traded from NJN to CLE.
+  Kurt Rambis traded from NYK to LAL.
+  Darwin Cook traded from DET to NJN.
+  Rory Sparrow traded from NJN to ATL.
+  John Stroeder traded from POR to MIL.
+Year: 1985
+  Charles Oakley traded from CLE to CHI.
+  Keith Lee traded from CHI to CLE.
+  Mike Smrek traded from POR to CHI.
+  Fernando Martín traded from NJN to POR.
+  Mark Acres traded from DAL to BOS.
+  Adrian Branch traded from CHI to LAL.
+  Brad Wright traded from GSW to NYK.
+  Sam Mitchell traded from HOU to MIN.
+  Sedric Toney traded from ATL to PHO.
+  Scott Roth traded from SAS to UTA.
+  Spud Webb traded from DET to ATL.
+  Derrick Gervin traded from PHI to NJN.
+  Ralph Lewis traded from BOS to DET.
+  Mario Elie traded from MIL to PHI.
+Year: 1978
+  Rick Robey traded from IND to BOS.
+  Ron Brewer traded from POR to SAS.
+  Freeman Williams traded from BOS to SDC.
+  James Hardy traded from NOJ to UTA.
+  George Johnson traded from MIL to IND.
+  Roger Phegley traded from WSB to CLE.
+  Dave Corzine traded from WSB to SAS.
+  Marty Byrnes traded from PHO to IND.
+  Mike Evans traded from DEN to MIL.
+  Raymond Townsend traded from GSW to IND.
+  Keith Herron traded from POR to CLE.
+  Wayne Cooper traded from GSW to DAL.
+  Jerome Whitehead traded from SDC to GSW.
+  Clemon Johnson traded from POR to IND.
+  Billy Ray Bates traded from HOU to POR.
+  Jeff Cook traded from KCK to PHO.
+  Marc Iavaroni traded from NYK to PHI.
+  Dave Batton traded from NJN to WSB.
+  Carlos Terry traded from LAL to WSB.
+  Clay Johnson traded from POR to LAL.
+  John Douglas traded from NOJ to SDC.
+  Chubby Cox traded from CHI to WSB.
+  Rickey Williams traded from NOJ to UTA.
+Year: 1988
+  Hersey Hawkins traded from LAC to PHI.
+  Gary Grant traded from SEA to LAC.
+  Eric Leckner traded from UTA to CHH.
+  Shelton Jones traded from SAS to PHI.
+  Everette Stephens traded from PHI to IND.
+  Keith Smart traded from GSW to SAS.
+  Anthony Taylor traded from ATL to MIA.
+  Vernon Maxwell traded from DEN to SAS.
+  Anthony Mason traded from POR to NYK.
+  Nate Johnston traded from MIA to UTA.
+  Corey Gaines traded from SEA to NJN.
+  Michael Anderson traded from IND to SAS.
+  Gerald Paddio traded from BOS to CLE.
+Year: 1979
+  James Bailey traded from SEA to HOU.
+  Calvin Natt traded from NJN to POR.
+  Cliff Robinson traded from NJN to KCK.
+  Dudley Bradley traded from IND to PHO.
+  Brad Holland traded from LAL to WSB.
+  Jim Spanarkel traded from PHI to DAL.
+  Reggie King traded from KCK to SEA.
+  Ollie Mack traded from LAL to DAL.
+  Edgar Jones traded from MIL to DET.
+  Paul Mokeski traded from HOU to DET.
+  Johnny Moore traded from SEA to SAS.
+  Calvin Garrett traded from CHI to HOU.
+  Terry Duerod traded from DET to BOS.
+  Cedrick Hordges traded from CHI to DEN.
+  Geoff Huston traded from NYK to CLE.
+  Jerry Sichting traded from GSW to IND.
+Year: 1981
+  Steve Johnson traded from KCK to CHI.
+  Tracy Jackson traded from BOS to CHI.
+  Eddie Johnson traded from KCK to ATL.
+  Ray Blume traded from IND to CHI.
+  Claude Gregory traded from WSB to LAC.
+  Frank Brickowski traded from NYK to SEA.
+  Kenny Dennard traded from KCK to DEN.
+  Larry Spriggs traded from HOU to LAL.
+  Hank McDowell traded from GSW to POR.
+  Clinton Wheeler traded from KCK to POR.
+Year: 1986
+  Walter Berry traded from POR to SAS.
+  Billy Thompson traded from ATL to LAL.
+  Mark Price traded from DAL to CLE.
+  Larry Krystkowiak traded from CHI to SAS.
+  Kevin Duckworth traded from SAS to POR.
+  Milt Wagner traded from DAL to LAL.
+  Michael Jackson traded from NYK to SAC.
+  Kevin Henderson traded from CLE to GSW.
+  Mike Williams traded from GSW to SAC.
+  Ricky Wilson traded from CHI to NJN.
+  Tod Murphy traded from SEA to MIN.
+  Dave Henderson traded from WSB to PHI.
+  John Shasky traded from UTA to MIA.
+  Dave Hoppen traded from ATL to GSW.
+  Anthony Bowie traded from HOU to SAS.
+  Ron Rowan traded from PHI to POR.
+  Andre Turner traded from LAL to HOU.
+  Jim Les traded from ATL to UTA.
+  Scott Meents traded from CHI to SEA.
+  Anthony Frederick traded from DEN to IND.
+Year: 1983
+  Byron Scott traded from SDC to LAL.
+  Antoine Carr traded from DET to ATL.
+  Ennis Whatley traded from KCK to CHI.
+  Randy Wittman traded from WSB to ATL.
+  Mitchell Wiggins traded from IND to CHI.
+  Sidney Lowe traded from CHI to IND.
+  Larry Micheaux traded from CHI to HOU.
+  Mark West traded from DAL to CLE.
+  Dirk Minniefield traded from DAL to CLE.
+  Granville Waiters traded from POR to IND.
+  Mark Jones traded from NYK to NJN.
+Year: 1990
+  Alec Kessler traded from HOU to MIA.
+  Dave Jamerson traded from MIA to HOU.
+  Terry Mills traded from MIL to DEN.
+  Jayson Williams traded from PHO to PHI.
+  Alaa Abdelnaby traded from POR to MIL.
+  Carl Herrera traded from MIA to HOU.
+  Jud Buechler traded from SEA to NJN.
+  Steve Scheffler traded from CHH to SEA.
+  Bimbo Coles traded from SAC to MIA.
+  Steve Bardo traded from ATL to DAL.
+  Tony Massenburg traded from SAS to LAC.
+  Derek Strong traded from PHI to MIL.
+Year: 1976
+  John Lucas traded from HOU to WSB.
+  Scott May traded from CHI to MIL.
+  Richard Washington traded from KCK to CLE.
+  Wally Walker traded from POR to SEA.
+  Adrian Dantley traded from BUF to UTA.
+  Robert Parish traded from GSW to BOS.
+  Armond Hill traded from ATL to SDC.
+  Ron Lee traded from PHO to DET.
+  Bob Wilkerson traded from SEA to CLE.
+  Mitch Kupchak traded from WSB to LAL.
+  Major Jones traded from POR to HOU.
+  Johnny Davis traded from POR to IND.
+  Alex English traded from MIL to DEN.
+  Scott Lloyd traded from MIL to DAL.
+  Lonnie Shelton traded from NYK to SEA.
+  Dennis Johnson traded from SEA to PHO.
+Year: 1974
+  Bill Walton traded from POR to SDC.
+  Scott Wedman traded from KCO to CLE.
+  Tom Henderson traded from ATL to HOU.
+  Campy Russell traded from CLE to NYK.
+  Tom McMillen traded from BUF to ATL.
+  Jamaal Wilkes traded from GSW to LAL.
+  Brian Winters traded from LAL to MIL.
+  Len Elmore traded from WSB to NJN.
+  Maurice Lucas traded from CHI to NYK.
+  Jan van Breda Kolff traded from POR to NJN.
+  Billy Knight traded from LAL to IND.
+  Truck Robinson traded from WSB to PHO.
+  Phil Smith traded from GSW to SDC.
+  Foots Walker traded from CLE to NJN.
+  Kevin Restani traded from CLE to SAS.
+  George Gervin traded from PHO to SAS.
+  Harvey Catchings traded from PHI to MIL.
+  Mickey Johnson traded from POR to MIL.
+Year: 1975
+  Marvin Webster traded from ATL to NYK.
+  Lionel Hollins traded from POR to PHI.
+  Rich Kelley traded from NOJ to PHO.
+  Junior Bridgeman traded from LAL to MIL.
+  Joe Meriweather traded from HOU to KCK.
+  Joe Bryant traded from GSW to SDC.
+  John Lambert traded from CLE to KCK.
+  Ricky Sobers traded from PHO to CHI.
+  Tom Boswell traded from BOS to UTA.
+  Bill Willoughby traded from ATL to HOU.
+  Gus Williams traded from GSW to SEA.
+  World B. Free traded from PHI to GSW.
+  Dan Roundfield traded from CLE to ATL.
+  Jim McElroy traded from NOJ to ATL.
+  Don Ford traded from LAL to CLE.
+Year: 1968
+  Elvin Hayes traded from SDR to HOU.
+Year: 1973
+  Jim Brewer traded from CLE to LAL.
+  Mike Bantom traded from PHO to IND.
+  Swen Nater traded from MIL to SDC.
+  Allan Bristow traded from PHI to DAL.
+  George McGinnis traded from PHI to IND.
+  Kevin Stacom traded from CHI to MIL.
+  Larry Kenon traded from DET to CLE.
+  M.L. Carr traded from KCO to BOS.
+Year: 1972
+  Bob McAdoo traded from BUF to LAL.
+  Paul Westphal traded from BOS to NYK.
+  Julius Erving traded from MIL to PHI.
+  Chris Ford traded from DET to BOS.
+  Brian Taylor traded from SEA to SDC.
+  Steve Hawes traded from CLE to ATL.
+  Don Buse traded from PHO to IND.
+  James Silas traded from HOU to CLE.
+Year: 1970
+  Bob Lanier traded from DET to MIL.
+  Pete Maravich traded from ATL to BOS.
+  Sam Lacey traded from CIN to NJN.
+  Calvin Murphy traded from SDR to HOU.
+  Tiny Archibald traded from CIN to BOS.
+  Dan Issel traded from DET to DEN.
+  Coby Dietrick traded from SFW to CHI.
+Year: 1969
+  Kareem Abdul-Jabbar traded from MIL to LAL.
+  Steve Mix traded from DET to PHI.
+Year: 1971
+  John Roche traded from PHO to DEN.
+  Mike Newlin traded from HOU to NYK.
+  Spencer Haywood traded from BUF to WSB.
+  Dave Robisch traded from BOS to DEN.
+  Mike Gale traded from CHI to GSW.
+  Tom Owens traded from HOU to IND.
+  Randy Smith traded from BUF to NYK.
+*******************************************
+*******************************************
+Number of messed up: 751
+
+
+
+Name: PJ Washington
+player_id:12
+years played: 1
+
+Name: Luka Šamanić
+player_id:25
+years played: 1
+
+Name: Greg Oden
+player_id:52
+years played: 3
+
+Name: Hasheem Thabeet
+player_id:62
+years played: 5
+
+Name: Michael Olowokandi
+player_id:105
+years played: 9
+
+Name: Jakob Pöltl
+player_id:115
+years played: 4
+
+Name: Mouhamed Sene
+player_id:287
+years played: 3
+
+Name: Cole Aldrich
+player_id:311
+years played: 8
+
+Name: Robert Swift
+player_id:315
+years played: 4
+
+Name: Aleksandar Radojević
+player_id:351
+years played: 2
+
+Name: Royce White
+player_id:392
+years played: 1
+
+Name: Cedric Simmons
+player_id:396
+years played: 3
+
+Name: Etan Thomas
+player_id:405
+years played: 9
+
+Name: Ante Žižić
+player_id:409
+years played: 3
+
+Name: JaJuan Johnson
+player_id:411
+years played: 1
+
+Name: Daniel Gafford
+player_id:436
+years played: 1
+
+Name: Pavel Podkolzin
+player_id:511
+years played: 2
+
+Name: Julius Hodge
+player_id:535
+years played: 2
+
+Name: Fab Melo
+player_id:538
+years played: 1
+
+Name: Robert Williams
+player_id:540
+years played: 2
+
+Name: Dontae' Jones
+player_id:585
+years played: 1
+
+Name: Josh Boone
+player_id:610
+years played: 4
+
+Name: Isaiah Roby
+player_id:616
+years played: 1
+
+Name: Talen Horton-Tucker
+player_id:617
+years played: 1
+
+Name: Paul Grant
+player_id:625
+years played: 2
+
+Name: Jordan Williams
+player_id:634
+years played: 1
+
+Name: Miles Plumlee
+player_id:644
+years played: 7
+
+Name: Arnett Moultrie
+player_id:645
+years played: 2
+
+Name: Quinndary Weatherspoon
+player_id:692
+years played: 1
+
+Name: Jarrell Brantley
+player_id:693
+years played: 1
+
+Name: Wayne Simien
+player_id:716
+years played: 2
+
+Name: Festus Ezeli
+player_id:721
+years played: 3
+
+Name: David Harrison
+player_id:726
+years played: 4
+
+Name: Chinanu Onuaku
+player_id:743
+years played: 2
+
+Name: Mitchell Robinson
+player_id:753
+years played: 2
+
+Name: Leon Smith
+player_id:782
+years played: 2
+
+Name: Gary Trent
+player_id:790
+years played: 2
+
+Name: Peter John Ramos
+player_id:791
+years played: 1
+
+Name: Justin Wright-Foreman
+player_id:795
+years played: 1
+
+Name: Nikola Peković
+player_id:798
+years played: 6
+
+Name: Diamond Stone
+player_id:805
+years played: 1
+
+Name: Robert Archibald
+player_id:807
+years played: 2
+
+Name: Dexter Pittman
+player_id:812
+years played: 4
+
+Name: Marial Shayok
+player_id:820
+years played: 1
+
+Name: Stephen Zimmerman
+player_id:832
+years played: 1
+
+Name: Kyle Guy
+player_id:847
+years played: 1
+
+Name: Marcus Williams
+player_id:856
+years played: 2
+
+Name: Evan Eschmeyer
+player_id:871
+years played: 4
+
+Name: Jerome Beasley
+player_id:875
+years played: 1
+
+Name: Rakeem Christmas
+player_id:885
+years played: 2
+
+Name: Travis Leslie
+player_id:899
+years played: 1
+
+Name: Jarnell Stokes
+player_id:916
+years played: 3
+
+Name: Jordan Bone
+player_id:918
+years played: 1
+
+Name: Miye Oni
+player_id:919
+years played: 1
+
+Name: Jermareo Davidson
+player_id:926
+years played: 2
+
+Name: Keith Benson
+player_id:934
+years played: 1
+
+Name: Darington Hobson
+player_id:946
+years played: 1
+
+Name: Kosta Perović
+player_id:954
+years played: 1
+
+Name: Jelani McCoy
+player_id:964
+years played: 8
+
+Name: Dragan Tarlać
+player_id:993
+years played: 1
+
+Name: Kebu Stewart
+player_id:994
+years played: 1
+
+Name: A.J. Bramlett
+player_id:1003
+years played: 1
+
+Name: James Augustine
+player_id:1012
+years played: 2
+
+Name: Soumaila Samake
+player_id:1020
+years played: 2
+
+Name: Sun Yue
+player_id:1021
+years played: 1
+
+Name: Vernon Macklin
+player_id:1025
+years played: 1
+
+Name: Chris Taft
+player_id:1033
+years played: 1
+
+Name: Mile Ilić
+player_id:1034
+years played: 1
+
+Name: Slavko Vraneš
+player_id:1035
+years played: 1
+
+Name: Jarvis Varnado
+player_id:1036
+years played: 2
+
+Name: Junior Burrough
+player_id:1047
+years played: 1
+
+Name: Chris Richard
+player_id:1050
+years played: 2
+
+Name: Martynas Andriuškevičius
+player_id:1060
+years played: 1
+
+Name: Derrick Zimmerman
+player_id:1062
+years played: 1
+
+Name: Casey Shaw
+player_id:1077
+years played: 1
+
+Name: Ben Bentil
+player_id:1085
+years played: 1
+
+Name: Jerome Jordan
+player_id:1092
+years played: 2
+
+Name: Ha Seung-Jin
+player_id:1096
+years played: 2
+
+Name: Edy Tavares
+player_id:1099
+years played: 2
+
+Name: DeMarco Johnson
+player_id:1101
+years played: 1
+
+Name: Ike Anigbogu
+player_id:1107
+years played: 2
+
+Name: Pape Sow
+player_id:1122
+years played: 3
+
+Name: Alexander Johnson
+player_id:1123
+years played: 2
+
+Name: Jason Sasser
+player_id:1134
+years played: 2
+
+Name: Gani Lawal
+player_id:1142
+years played: 1
+
+Name: Kevin Murphy
+player_id:1143
+years played: 1
+
+Name: Dakari Johnson
+player_id:1148
+years played: 1
+
+Name: Jason Lawson
+player_id:1154
+years played: 1
+
+Name: Olumide Oyedeji
+player_id:1157
+years played: 3
+
+Name: Stéphane Lasme
+player_id:1159
+years played: 1
+
+Name: Ben Davis
+player_id:1162
+years played: 4
+
+Name: Todd MacCulloch
+player_id:1168
+years played: 4
+
+Name: Vince Edwards
+player_id:1174
+years played: 1
+
+Name: Chris Owens
+player_id:1197
+years played: 1
+
+Name: Lari Ketner
+player_id:1202
+years played: 2
+
+Name: Robert Whaley
+player_id:1203
+years played: 1
+
+Name: James Lang
+player_id:1206
+years played: 1
+
+Name: Miles Simon
+player_id:1225
+years played: 1
+
+Name: Dwayne Whitfield
+player_id:1228
+years played: 1
+
+Name: Ken Johnson
+player_id:1244
+years played: 1
+
+Name: Ruben Boumtje-Boumtje
+player_id:1245
+years played: 3
+
+Name: Solomon Alabi
+player_id:1251
+years played: 2
+
+Name: Ognjen Kuzmić
+player_id:1254
+years played: 2
+
+Name: JamesOn Curry
+player_id:1277
+years played: 1
+
+Name: Alton Ford
+player_id:1284
+years played: 3
+
+Name: Kevin Hervey
+player_id:1293
+years played: 1
+
+Name: George King
+player_id:1334
+years played: 1
+
+Name: Erik Murphy
+player_id:1339
+years played: 1
+
+Name: Tyson Wheeler
+player_id:1340
+years played: 1
+
+Name: Tim Young
+player_id:1351
+years played: 1
+
+Name: Kostas Antetokounmpo
+player_id:1357
+years played: 2
+
+Name: Branden Dawson
+player_id:1360
+years played: 1
+
+Name: Glenn Robinson
+player_id:1367
+years played: 11
+
+Name: Ernest Brown
+player_id:1368
+years played: 1
+
+Name: Dan McClintock
+player_id:1369
+years played: 1
+
+Name: Randy Holcomb
+player_id:1376
+years played: 1
+
+Name: Corsley Edwards
+player_id:1377
+years played: 1
+
+Name: Hamady N'Diaye
+player_id:1385
+years played: 3
+
+Name: Ryan Reid
+player_id:1386
+years played: 1
+
+Name: Sasha Kaun
+player_id:1403
+years played: 1
+
+Name: Jeff Nordgaard
+player_id:1413
+years played: 1
+
+Name: Alvin Jones
+player_id:1415
+years played: 1
+
+Name: Derrick Caracter
+player_id:1417
+years played: 1
+
+Name: Semih Erden
+player_id:1457
+years played: 2
+
+Name: Andreas Glyniadakis
+player_id:1468
+years played: 1
+
+Name: Torraye Braggs
+player_id:1490
+years played: 2
+
+Name: Michael McDonald
+player_id:1493
+years played: 1
+
+Name: Yinka Dare
+player_id:1512
+years played: 4
+
+Name: Scott Haskin
+player_id:1522
+years played: 1
+
+Name: Patrick Ewing
+player_id:1568
+years played: 17
+
+Name: Geert Hammink
+player_id:1572
+years played: 3
+
+Name: Evers Burns
+player_id:1615
+years played: 1
+
+Name: Glen Rice
+player_id:1619
+years played: 15
+
+Name: Charles Smith
+player_id:1634
+years played: 9
+
+Name: Ed Stokes
+player_id:1671
+years played: 1
+
+Name: Roy Hamilton
+player_id:1745
+years played: 2
+
+Name: Jeff Webster
+player_id:1767
+years played: 1
+
+Name: Isaiah Morris
+player_id:1768
+years played: 1
+
+Name: Russell Cross
+player_id:1775
+years played: 1
+
+Name: Michael Smith
+player_id:1791
+years played: 3
+
+Name: Butch Lee
+player_id:1796
+years played: 2
+
+Name: Uwe Blab
+player_id:1809
+years played: 5
+
+Name: Shawnelle Scott
+player_id:1814
+years played: 4
+
+Name: Tim Hardaway
+player_id:1820
+years played: 13
+
+Name: Ron Moore
+player_id:1836
+years played: 1
+
+Name: Tate Armstrong
+player_id:1846
+years played: 2
+
+Name: Winford Boynes
+player_id:1850
+years played: 3
+
+Name: Lee Johnson
+player_id:1860
+years played: 1
+
+Name: John Turner
+player_id:1888
+years played: 1
+
+Name: Wiley Peck
+player_id:1895
+years played: 1
+
+Name: Dee Brown
+player_id:1907
+years played: 12
+
+Name: LeRon Ellis
+player_id:1912
+years played: 3
+
+Name: Monti Davis
+player_id:1914
+years played: 1
+
+Name: Chad Kinch
+player_id:1915
+years played: 1
+
+Name: Larry Nance
+player_id:1920
+years played: 13
+
+Name: Jeff Sanders
+player_id:1928
+years played: 4
+
+Name: Bo Ellis
+player_id:1931
+years played: 3
+
+Name: Jack Givens
+player_id:1933
+years played: 2
+
+Name: Mark McNamara
+player_id:1934
+years played: 8
+
+Name: Nikita Wilson
+player_id:1941
+years played: 1
+
+Name: Darren Morningstar
+player_id:1943
+years played: 1
+
+Name: Earl Jones
+player_id:1945
+years played: 2
+
+Name: Wesley Cox
+player_id:1949
+years played: 2
+
+Name: Andre Moore
+player_id:1963
+years played: 1
+
+Name: Charles Claxton
+player_id:1965
+years played: 1
+
+Name: Rich Laurel
+player_id:1973
+years played: 1
+
+Name: Sam Worthen
+player_id:1981
+years played: 2
+
+Name: Ken Johnson
+player_id:1987
+years played: 1
+
+Name: Mike Brittain
+player_id:1988
+years played: 2
+
+Name: Glenn Mosley
+player_id:2000
+years played: 2
+
+Name: Leo Rautins
+player_id:2001
+years played: 2
+
+Name: Frankie Sanders
+player_id:2004
+years played: 2
+
+Name: John Stroud
+player_id:2009
+years played: 1
+
+Name: Craig Shelton
+player_id:2010
+years played: 2
+
+Name: Rolando Ferreira
+player_id:2011
+years played: 1
+
+Name: Reggie Carter
+player_id:2013
+years played: 2
+
+Name: Željko Rebrača
+player_id:2021
+years played: 5
+
+Name: Anthony Roberts
+player_id:2029
+years played: 5
+
+Name: Tony Price
+player_id:2036
+years played: 1
+
+Name: Gary Garland
+player_id:2053
+years played: 1
+
+Name: Larry Johnson
+player_id:2066
+years played: 1
+
+Name: Wallace Bryant
+player_id:2071
+years played: 3
+
+Name: Chad Gallagher
+player_id:2073
+years played: 1
+
+Name: Wayne Robinson
+player_id:2075
+years played: 1
+
+Name: Tony Zeno
+player_id:2079
+years played: 1
+
+Name: Cedric Henderson
+player_id:2091
+years played: 1
+
+Name: Wilson Washington
+player_id:2095
+years played: 2
+
+Name: Rick Wilson
+player_id:2099
+years played: 2
+
+Name: Ron Carter
+player_id:2100
+years played: 2
+
+Name: Myron Brown
+player_id:2103
+years played: 1
+
+Name: Yvon Joseph
+player_id:2113
+years played: 1
+
+Name: Kannard Johnson
+player_id:2115
+years played: 1
+
+Name: Dyron Nix
+player_id:2119
+years played: 1
+
+Name: Kim Anderson
+player_id:2126
+years played: 1
+
+Name: Wayne Radford
+player_id:2129
+years played: 1
+
+Name: Vince Taylor
+player_id:2130
+years played: 1
+
+Name: Ken Green
+player_id:2135
+years played: 1
+
+Name: Alonzo Bradley
+player_id:2142
+years played: 3
+
+Name: John Garris
+player_id:2143
+years played: 1
+
+Name: DeWayne Scales
+player_id:2147
+years played: 3
+
+Name: Stanley Brundy
+player_id:2154
+years played: 1
+
+Name: Steve Sheppard
+player_id:2157
+years played: 2
+
+Name: Bernard Toone
+player_id:2165
+years played: 1
+
+Name: Eddie Owens
+player_id:2179
+years played: 1
+
+Name: Toby Knight
+player_id:2180
+years played: 4
+
+Name: Wayne Sappleton
+player_id:2186
+years played: 1
+
+Name: Lorenzo Charles
+player_id:2193
+years played: 1
+
+Name: John Rudd
+player_id:2202
+years played: 1
+
+Name: Guy Morgan
+player_id:2204
+years played: 1
+
+Name: Dick Miller
+player_id:2208
+years played: 1
+
+Name: Dean Garrett
+player_id:2209
+years played: 6
+
+Name: Tito Horford
+player_id:2210
+years played: 3
+
+Name: Barry Stevens
+player_id:2216
+years played: 1
+
+Name: Michael Ansley
+player_id:2222
+years played: 3
+
+Name: Larry Moffett
+player_id:2227
+years played: 1
+
+Name: Harry Davis
+player_id:2231
+years played: 2
+
+Name: Dwight Anderson
+player_id:2232
+years played: 1
+
+Name: Orlando Graham
+player_id:2235
+years played: 1
+
+Name: Voise Winters
+player_id:2238
+years played: 1
+
+Name: Phil Zevenbergen
+player_id:2239
+years played: 1
+
+Name: Darrell Lockhart
+player_id:2245
+years played: 1
+
+Name: Greg Bunch
+player_id:2246
+years played: 1
+
+Name: Scooter McCray
+player_id:2261
+years played: 3
+
+Name: Tommie Green
+player_id:2262
+years played: 1
+
+Name: Arvid Kramer
+player_id:2268
+years played: 1
+
+Name: Steve Lingenfelter
+player_id:2269
+years played: 2
+
+Name: Winston Crite
+player_id:2271
+years played: 2
+
+Name: Dino Rađa
+player_id:2273
+years played: 4
+
+Name: Mike Gibson
+player_id:2279
+years played: 2
+
+Name: Todd Mitchell
+player_id:2282
+years played: 1
+
+Name: Phil Walker
+player_id:2294
+years played: 1
+
+Name: Chris McNealy
+player_id:2295
+years played: 3
+
+Name: David Burns
+player_id:2338
+years played: 1
+
+Name: Bob Elliott
+player_id:2346
+years played: 3
+
+Name: Ricky Blanton
+player_id:2358
+years played: 1
+
+Name: Glenn Hagan
+player_id:2365
+years played: 1
+
+Name: Corny Thompson
+player_id:2366
+years played: 1
+
+Name: Jim Johnstone
+player_id:2367
+years played: 1
+
+Name: Ronnie Valentine
+player_id:2371
+years played: 1
+
+Name: Essie Hollis
+player_id:2386
+years played: 1
+
+Name: Rob Lock
+player_id:2392
+years played: 1
+
+Name: Cheese Johnson
+player_id:2393
+years played: 1
+
+Name: Jim Smith
+player_id:2395
+years played: 2
+
+Name: Hollis Copeland
+player_id:2425
+years played: 2
+
+Name: Dwayne Polee
+player_id:2435
+years played: 1
+
+Name: Miloš Babić
+player_id:2436
+years played: 2
+
+Name: Barry Sumpter
+player_id:2443
+years played: 1
+
+Name: Perry Young
+player_id:2449
+years played: 1
+
+Name: Sam Smith
+player_id:2458
+years played: 2
+
+Name: Dave Britton
+player_id:2463
+years played: 1
+
+Name: Harold Keeling
+player_id:2472
+years played: 1
+
+Name: Stefano Rusconi
+player_id:2480
+years played: 1
+
+Name: Eddie Johnson
+player_id:2482
+years played: 10
+
+Name: Terry Crosby
+player_id:2495
+years played: 1
+
+Name: Chris Engler
+player_id:2511
+years played: 5
+
+Name: Rich Yonakor
+player_id:2513
+years played: 1
+
+Name: Sylvester Norris
+player_id:2517
+years played: 1
+
+Name: Joe Binion
+player_id:2524
+years played: 1
+
+Name: John Kuester
+player_id:2528
+years played: 3
+
+Name: Mike Holton
+player_id:2530
+years played: 6
+
+Name: Chuck Nevitt
+player_id:2553
+years played: 9
+
+Name: Greg Deane
+player_id:2560
+years played: 1
+
+Name: Joe Arlauckas
+player_id:2563
+years played: 1
+
+Name: Jeff Cross
+player_id:2564
+years played: 1
+
+Name: John Greig
+player_id:2572
+years played: 1
+
+Name: Carl Bailey
+player_id:2573
+years played: 1
+
+Name: Ricky Grace
+player_id:2576
+years played: 1
+
+Name: John Pinone
+player_id:2588
+years played: 1
+
+Name: Marlon Redmond
+player_id:2609
+years played: 2
+
+Name: Bruce Kuczenski
+player_id:2611
+years played: 1
+
+Name: James Donaldson
+player_id:2619
+years played: 14
+
+Name: Phil Bond
+player_id:2625
+years played: 1
+
+Name: Alex Stivrins
+player_id:2633
+years played: 2
+
+Name: Gerald Henderson
+player_id:2639
+years played: 13
+
+Name: Tom Piotrowski
+player_id:2652
+years played: 1
+
+Name: Arvydas Sabonis
+player_id:2659
+years played: 7
+
+Name: Mark Davis
+player_id:2676
+years played: 1
+
+Name: Ralph Jackson
+player_id:2679
+years played: 1
+
+Name: Jackie Robinson
+player_id:2687
+years played: 3
+
+Name: Lewis Brown
+player_id:2705
+years played: 1
+
+Name: Greg Griffin
+player_id:2730
+years played: 1
+
+Name: Mike Niles
+player_id:2735
+years played: 1
+
+Name: Dennis Boyd
+player_id:2741
+years played: 1
+
+Name: John McCullough
+player_id:2752
+years played: 1
+
+Name: Ron Crevier
+player_id:2784
+years played: 1
+
+Name: Pete Williams
+player_id:2796
+years played: 2
+
+Name: Myron Jackson
+player_id:2802
+years played: 1
+
+Name: Otis Howard
+player_id:2809
+years played: 1
+
+Name: Cozell McQueen
+player_id:2819
+years played: 1
+
+Name: Dexter Shouse
+player_id:2820
+years played: 1
+
+Name: Lawrence Boston
+player_id:2831
+years played: 1
+
+Name: Tony Jackson
+player_id:2835
+years played: 1
+
+Name: Jim Rowinski
+player_id:2846
+years played: 2
+
+Name: Walter Jordan
+player_id:2854
+years played: 1
+
+Name: Bob Miller
+player_id:2876
+years played: 1
+
+Name: Brett Vroman
+player_id:2890
+years played: 1
+
+Name: Tony Fuller
+player_id:2892
+years played: 1
+
+Name: Joe Cooper
+player_id:2894
+years played: 3
+
+Name: Richard Rellford
+player_id:2902
+years played: 1
+
+Name: Tony Robertson
+player_id:2904
+years played: 2
+
+Name: Billy Reid
+player_id:2913
+years played: 1
+
+Name: Dominic Pressley
+player_id:2940
+years played: 1
+
+Name: Brant Weidner
+player_id:2943
+years played: 1
+
+Name: Wally Rank
+player_id:2969
+years played: 1
+
+Name: Duck Williams
+player_id:2987
+years played: 1
+
+Name: Mark Eaton
+player_id:3011
+years played: 11
+
+Name: Manute Bol
+player_id:3023
+years played: 10
+
+Name: Darrell Allums
+player_id:3029
+years played: 1
+
+Name: Martin Nessley
+player_id:3037
+years played: 1
+
+Name: Bubba Wilson
+player_id:3046
+years played: 1
+
+Name: Ken Austin
+player_id:3058
+years played: 1
+
+Name: Scott Sims
+player_id:3076
+years played: 1
+
+Name: Jim Lampley
+player_id:3077
+years played: 1
+
+Name: Ray Epps
+player_id:3087
+years played: 1
+
+Name: Ralph Drollinger
+player_id:3100
+years played: 1
+
+Name: Andre Wakefield
+player_id:3132
+years played: 2
+
+Name: Mark Crow
+player_id:3171
+years played: 1
+
+Name: McKinley Singleton
+player_id:3219
+years played: 1
+
+Name: Tom Scheffler
+player_id:3246
+years played: 1
+
+Name: Kenton Edelin
+player_id:3419
+years played: 1
+
+Name: Stan Pietkiewicz
+player_id:3447
+years played: 3
+
+Name: Kim Anderson
+player_id:3594
+years played: 1
+
+Name: Steve Malovic
+player_id:3613
+years played: 1
+
+Name: Lars Hansen
+player_id:3625
+years played: 1
+
+Name: Ralph Drollinger
+player_id:3626
+years played: 1
+
+Name: Charles Jones
+player_id:3635
+years played: 15
+
+Name: Earl Evans
+player_id:3675
+years played: 1
+
+Name: Carl Kilpatrick
+player_id:3690
+years played: 1
+
+Name: Clarence Kea
+player_id:3694
+years played: 2
+
+Name: Ricky Marsh
+player_id:3731
+years played: 1
+
+Name: David Thompson
+player_id:3745
+years played: 8
+
+Name: John Olive
+player_id:3749
+years played: 2
+
+Name: Leon Douglas
+player_id:3763
+years played: 7
+
+Name: Dave Meyers
+player_id:3765
+years played: 4
+
+Name: Marvin Barnes
+player_id:3776
+years played: 4
+
+Name: Doug Collins
+player_id:3777
+years played: 8
+
+Name: LaRue Martin
+player_id:3778
+years played: 4
+
+Name: Jimmy Walker
+player_id:3782
+years played: 9
+
+Name: Austin Carr
+player_id:3799
+years played: 10
+
+Name: Tom Burleson
+player_id:3801
+years played: 7
+
+Name: Ernie DiGregorio
+player_id:3803
+years played: 5
+
+Name: Wes Unseld
+player_id:3805
+years played: 13
+
+Name: Bob Kauffman
+player_id:3806
+years played: 7
+
+Name: Earl Monroe
+player_id:3809
+years played: 13
+
+Name: Clem Haskins
+player_id:3810
+years played: 9
+
+Name: Sidney Wicks
+player_id:3821
+years played: 10
+
+Name: Elmore Smith
+player_id:3822
+years played: 8
+
+Name: John Shumate
+player_id:3827
+years played: 5
+
+Name: Bobby Jones
+player_id:3828
+years played: 10
+
+Name: Mike Green
+player_id:3829
+years played: 4
+
+Name: Kermit Washington
+player_id:3830
+years played: 10
+
+Name: Dwight Davis
+player_id:3831
+years played: 5
+
+Name: Corky Calhoun
+player_id:3832
+years played: 8
+
+Name: Tom Boerwinkle
+player_id:3833
+years played: 10
+
+Name: Zaid Abdul-Aziz
+player_id:3834
+years played: 10
+
+Name: Paul Dawkins
+player_id:3836
+years played: 1
+
+Name: Sonny Dove
+player_id:3837
+years played: 2
+
+Name: Walt Frazier
+player_id:3838
+years played: 13
+
+Name: Billy Reid
+player_id:3853
+years played: 1
+
+Name: Ken Durrett
+player_id:3855
+years played: 4
+
+Name: George Trapp
+player_id:3856
+years played: 6
+
+Name: Rudy Tomjanovich
+player_id:3857
+years played: 11
+
+Name: Ed Ratleff
+player_id:3865
+years played: 5
+
+Name: Ron Behagen
+player_id:3866
+years played: 7
+
+Name: Freddie Boyd
+player_id:3867
+years played: 6
+
+Name: Russ Lee
+player_id:3868
+years played: 3
+
+Name: Otto Moore
+player_id:3869
+years played: 9
+
+Name: Al Tucker
+player_id:3871
+years played: 3
+
+Name: Gene Short
+player_id:3874
+years played: 1
+
+Name: Brian Martin
+player_id:3875
+years played: 1
+
+Name: Neal Walk
+player_id:3880
+years played: 8
+
+Name: Fred Brown
+player_id:3881
+years played: 13
+
+Name: Dwight Jones
+player_id:3887
+years played: 10
+
+Name: Bud Stallworth
+player_id:3888
+years played: 5
+
+Name: Tom Riker
+player_id:3889
+years played: 3
+
+Name: Charlie Paulk
+player_id:3890
+years played: 3
+
+Name: Gary Gregor
+player_id:3891
+years played: 4
+
+Name: Pat Riley
+player_id:3894
+years played: 9
+
+Name: Tom Workman
+player_id:3895
+years played: 2
+
+Name: Terry Furlow
+player_id:3898
+years played: 4
+
+Name: Bill Robinzine
+player_id:3900
+years played: 7
+
+Name: Lucius Allen
+player_id:3909
+years played: 10
+
+Name: Cliff Meely
+player_id:3910
+years played: 5
+
+Name: John Brown
+player_id:3915
+years played: 7
+
+Name: Bob Nash
+player_id:3916
+years played: 4
+
+Name: Ron Williams
+player_id:3917
+years played: 8
+
+Name: Mel Daniels
+player_id:3919
+years played: 1
+
+Name: Larry Wright
+player_id:3921
+years played: 6
+
+Name: Frank Oleynick
+player_id:3922
+years played: 2
+
+Name: Terry Driscoll
+player_id:3928
+years played: 4
+
+Name: Darnell Hillman
+player_id:3929
+years played: 4
+
+Name: Jim Ard
+player_id:3930
+years played: 4
+
+Name: Mike Sojourner
+player_id:3933
+years played: 3
+
+Name: Bill Hosket
+player_id:3936
+years played: 4
+
+Name: Dave Lattin
+player_id:3938
+years played: 2
+
+Name: Chuckie Williams
+player_id:3940
+years played: 1
+
+Name: Bob Bigelow
+player_id:3941
+years played: 4
+
+Name: Stan Love
+player_id:3948
+years played: 3
+
+Name: John Johnson
+player_id:3949
+years played: 12
+
+Name: Kevin Kunnert
+player_id:3953
+years played: 9
+
+Name: Ralph Simpson
+player_id:3954
+years played: 4
+
+Name: Bill Hewitt
+player_id:3955
+years played: 6
+
+Name: Mal Graham
+player_id:3957
+years played: 2
+
+Name: Norm Cook
+player_id:3959
+years played: 2
+
+Name: Bingo Smith
+player_id:3966
+years played: 11
+
+Name: Clarence Glover
+player_id:3967
+years played: 1
+
+Name: Geoff Petrie
+player_id:3968
+years played: 6
+
+Name: George Johnson
+player_id:3969
+years played: 3
+
+Name: Nick Weatherspoon
+player_id:3974
+years played: 7
+
+Name: Craig Raymond
+player_id:3978
+years played: 1
+
+Name: Sonny Parker
+player_id:3980
+years played: 6
+
+Name: Bob Portman
+player_id:3987
+years played: 4
+
+Name: Curtis Rowe
+player_id:3988
+years played: 8
+
+Name: Greg Howard
+player_id:3989
+years played: 2
+
+Name: Mel Davis
+player_id:3993
+years played: 4
+
+Name: Travis Grant
+player_id:3994
+years played: 1
+
+Name: Skip Harlicka
+player_id:3995
+years played: 1
+
+Name: Jimmy Jones
+player_id:3997
+years played: 3
+
+Name: Willie Smith
+player_id:3999
+years played: 4
+
+Name: Herm Gilliam
+player_id:4006
+years played: 8
+
+Name: Jimmy Collins
+player_id:4008
+years played: 2
+
+Name: Bob Davis
+player_id:4013
+years played: 1
+
+Name: Shaler Halimon
+player_id:4014
+years played: 3
+
+Name: Bayard Forrest
+player_id:4018
+years played: 2
+
+Name: Jo Jo White
+player_id:4028
+years played: 12
+
+Name: Butch Beard
+player_id:4029
+years played: 9
+
+Name: Jim Cleamons
+player_id:4030
+years played: 9
+
+Name: Al Henry
+player_id:4032
+years played: 2
+
+Name: Jim McMillian
+player_id:4033
+years played: 9
+
+Name: Al Eberhard
+player_id:4038
+years played: 4
+
+Name: Cliff Pondexter
+player_id:4039
+years played: 3
+
+Name: Harold Fox
+player_id:4041
+years played: 1
+
+Name: John Trapp
+player_id:4042
+years played: 4
+
+Name: Byron Beck
+player_id:4044
+years played: 1
+
+Name: John Warren
+player_id:4055
+years played: 5
+
+Name: Kenny McIntosh
+player_id:4056
+years played: 4
+
+Name: John Vallely
+player_id:4057
+years played: 2
+
+Name: Glenn McDonald
+player_id:4060
+years played: 3
+
+Name: Steve Downing
+player_id:4061
+years played: 2
+
+Name: Jim Price
+player_id:4062
+years played: 7
+
+Name: Art Harris
+player_id:4063
+years played: 4
+
+Name: Phil Jackson
+player_id:4065
+years played: 12
+
+Name: Earl Tatum
+player_id:4067
+years played: 4
+
+Name: Willie McCarter
+player_id:4074
+years played: 3
+
+Name: Dean Meminger
+player_id:4075
+years played: 6
+
+Name: John Hummer
+player_id:4076
+years played: 6
+
+Name: Gary Brokaw
+player_id:4079
+years played: 4
+
+Name: Loy Petersen
+player_id:4082
+years played: 2
+
+Name: Bud Ogden
+player_id:4093
+years played: 2
+
+Name: Gary Freeman
+player_id:4095
+years played: 1
+
+Name: Don Smith
+player_id:4098
+years played: 1
+
+Name: Louie Nelson
+player_id:4099
+years played: 5
+
+Name: Joby Wright
+player_id:4100
+years played: 1
+
+Name: Bob Quick
+player_id:4101
+years played: 3
+
+Name: Keith McCord
+player_id:4102
+years played: 1
+
+Name: Bob Rule
+player_id:4103
+years played: 8
+
+Name: Bruce Seals
+player_id:4106
+years played: 3
+
+Name: Mike Davis
+player_id:4112
+years played: 3
+
+Name: Rick Roberson
+player_id:4113
+years played: 7
+
+Name: Steve Patterson
+player_id:4114
+years played: 5
+
+Name: Fred Hilton
+player_id:4115
+years played: 2
+
+Name: Mike Price
+player_id:4116
+years played: 2
+
+Name: Mike D'Antoni
+player_id:4124
+years played: 3
+
+Name: Sam Sibert
+player_id:4126
+years played: 1
+
+Name: John Gianelli
+player_id:4127
+years played: 8
+
+Name: Manny Leaks
+player_id:4129
+years played: 2
+
+Name: Clyde Mayes
+player_id:4137
+years played: 2
+
+Name: Steve Bracey
+player_id:4154
+years played: 3
+
+Name: Dick Cunningham
+player_id:4155
+years played: 7
+
+Name: Jacky Dorsey
+player_id:4160
+years played: 3
+
+Name: Phil Hicks
+player_id:4161
+years played: 2
+
+Name: Cornelius Cash
+player_id:4162
+years played: 1
+
+Name: Bob Greacen
+player_id:4174
+years played: 2
+
+Name: John Mengelt
+player_id:4175
+years played: 10
+
+Name: Jake Ford
+player_id:4176
+years played: 2
+
+Name: Gus Bailey
+player_id:4179
+years played: 5
+
+Name: Paul Stovall
+player_id:4181
+years played: 1
+
+Name: Bob Carrington
+player_id:4186
+years played: 2
+
+Name: Ticky Burden
+player_id:4187
+years played: 2
+
+Name: Ted McClain
+player_id:4194
+years played: 3
+
+Name: Rex Morgan
+player_id:4195
+years played: 2
+
+Name: Len Kosmalski
+player_id:4198
+years played: 2
+
+Name: Stu Lantz
+player_id:4201
+years played: 8
+
+Name: Gary Gregor
+player_id:4202
+years played: 4
+
+Name: Al Fleming
+player_id:4206
+years played: 1
+
+Name: Willie Norwood
+player_id:4216
+years played: 7
+
+Name: Jim McDaniels
+player_id:4217
+years played: 3
+
+Name: Leonard Gray
+player_id:4224
+years played: 3
+
+Name: Larry McNeill
+player_id:4225
+years played: 6
+
+Name: Tom Patterson
+player_id:4228
+years played: 2
+
+Name: Bob Verga
+player_id:4231
+years played: 1
+
+Name: Gary Gray
+player_id:4232
+years played: 1
+
+Name: Joe Pace
+player_id:4235
+years played: 2
+
+Name: Mo Howard
+player_id:4236
+years played: 1
+
+Name: Bernie Williams
+player_id:4249
+years played: 2
+
+Name: Charlie Yelverton
+player_id:4251
+years played: 1
+
+Name: Pete Cross
+player_id:4252
+years played: 3
+
+Name: Cornell Warner
+player_id:4253
+years played: 7
+
+Name: Leon Benbow
+player_id:4257
+years played: 2
+
+Name: Tom Ingelsby
+player_id:4258
+years played: 1
+
+Name: Dave Twardzik
+player_id:4259
+years played: 4
+
+Name: Bill Turner
+player_id:4261
+years played: 6
+
+Name: Butch Feher
+player_id:4263
+years played: 1
+
+Name: Walt Gilmore
+player_id:4272
+years played: 1
+
+Name: Aaron James
+player_id:4275
+years played: 5
+
+Name: Pat Frink
+player_id:4278
+years played: 1
+
+Name: Marshall Rogers
+player_id:4281
+years played: 1
+
+Name: Steve Green
+player_id:4282
+years played: 3
+
+Name: Johnny Baum
+player_id:4288
+years played: 2
+
+Name: Dave Sorenson
+player_id:4290
+years played: 3
+
+Name: Derrek Dickey
+player_id:4294
+years played: 5
+
+Name: Mike Ratliff
+player_id:4296
+years played: 2
+
+Name: Chuck Terry
+player_id:4297
+years played: 2
+
+Name: Fred Foster
+player_id:4298
+years played: 8
+
+Name: Derrick Rowland
+player_id:4303
+years played: 1
+
+Name: Glenn Hansen
+player_id:4306
+years played: 3
+
+Name: John Laskowski
+player_id:4307
+years played: 2
+
+Name: Wally Anderzunas
+player_id:4320
+years played: 1
+
+Name: Isaiah Wilson
+player_id:4322
+years played: 1
+
+Name: Fred Taylor
+player_id:4323
+years played: 2
+
+Name: Paul Ruffner
+player_id:4324
+years played: 3
+
+Name: Dennis DuVal
+player_id:4330
+years played: 2
+
+Name: Fred Saunders
+player_id:4331
+years played: 4
+
+Name: Jim Chones
+player_id:4332
+years played: 8
+
+Name: Ollie Johnson
+player_id:4334
+years played: 10
+
+Name: Lloyd Neal
+player_id:4335
+years played: 7
+
+Name: Don May
+player_id:4336
+years played: 7
+
+Name: Dave Newmark
+player_id:4337
+years played: 2
+
+Name: Nick Jones
+player_id:4338
+years played: 3
+
+Name: Lars Hansen
+player_id:4342
+years played: 1
+
+Name: Phil Sellers
+player_id:4343
+years played: 1
+
+Name: Larry Fogle
+player_id:4345
+years played: 1
+
+Name: Dick Garrett
+player_id:4357
+years played: 5
+
+Name: Earnie Killum
+player_id:4361
+years played: 1
+
+Name: Jesse Dark
+player_id:4366
+years played: 1
+
+Name: Eric Money
+player_id:4367
+years played: 6
+
+Name: Gary Melchionni
+player_id:4368
+years played: 2
+
+Name: Scott English
+player_id:4371
+years played: 1
+
+Name: Garfield Smith
+player_id:4372
+years played: 2
+
+Name: Lloyd Walton
+player_id:4379
+years played: 5
+
+Name: Allen Murphy
+player_id:4380
+years played: 1
+
+Name: Howard Porter
+player_id:4393
+years played: 7
+
+Name: Phil Lumpkin
+player_id:4401
+years played: 2
+
+Name: Kevin Stacom
+player_id:4402
+years played: 6
+
+Name: Phil Hankinson
+player_id:4403
+years played: 2
+
+Name: Ted Manakas
+player_id:4404
+years played: 1
+
+Name: Frank Russell
+player_id:4406
+years played: 1
+
+Name: Cliff Anderson
+player_id:4408
+years played: 3
+
+Name: Rudy Hackett
+player_id:4411
+years played: 1
+
+Name: Bill Zopf
+player_id:4418
+years played: 1
+
+Name: Sam Williams
+player_id:4424
+years played: 2
+
+Name: Tom Abernethy
+player_id:4429
+years played: 5
+
+Name: Lee Winfield
+player_id:4441
+years played: 7
+
+Name: Curtis Perry
+player_id:4445
+years played: 8
+
+Name: Connie Norman
+player_id:4450
+years played: 3
+
+Name: Ken Charles
+player_id:4452
+years played: 5
+
+Name: Eric McWilliams
+player_id:4454
+years played: 1
+
+Name: Ron Riley
+player_id:4455
+years played: 4
+
+Name: Harry Barnes
+player_id:4457
+years played: 1
+
+Name: Louie Dampier
+player_id:4459
+years played: 3
+
+Name: Lamar Green
+player_id:4468
+years played: 5
+
+Name: Larry Steele
+player_id:4469
+years played: 9
+
+Name: Kevin Porter
+player_id:4475
+years played: 10
+
+Name: Bobby Lewis
+player_id:4477
+years played: 4
+
+Name: Ira Terrell
+player_id:4479
+years played: 2
+
+Name: Norm Van Lier
+player_id:4484
+years played: 10
+
+Name: Jim Creighton
+player_id:4491
+years played: 1
+
+Name: Mike Lynn
+player_id:4492
+years played: 2
+
+Name: Jeff Halliburton
+player_id:4501
+years played: 2
+
+Name: Willie Williams
+player_id:4502
+years played: 1
+
+Name: Luther Rackley
+player_id:4520
+years played: 4
+
+Name: Clifford Ray
+player_id:4521
+years played: 10
+
+Name: Jackie Ridgle
+player_id:4522
+years played: 1
+
+Name: Greg Hyder
+player_id:4523
+years played: 1
+
+Name: Gar Heard
+player_id:4524
+years played: 11
+
+Name: Darrell Elston
+player_id:4529
+years played: 1
+
+Name: Tal Skinner
+player_id:4530
+years played: 2
+
+Name: Bo Lamar
+player_id:4532
+years played: 1
+
+Name: Claude Terry
+player_id:4533
+years played: 2
+
+Name: Bill Chamberlain
+player_id:4534
+years played: 1
+
+Name: Rich Niemann
+player_id:4536
+years played: 1
+
+Name: William Smith
+player_id:4549
+years played: 2
+
+Name: Kim Hughes
+player_id:4553
+years played: 5
+
+Name: Leonard Gray
+player_id:4554
+years played: 3
+
+Name: Rich Rinaldi
+player_id:4564
+years played: 2
+
+Name: Paul Long
+player_id:4572
+years played: 3
+
+Name: Keith Starr
+player_id:4573
+years played: 1
+
+Name: Rudy White
+player_id:4574
+years played: 5
+
+Name: Tom Kropp
+player_id:4575
+years played: 2
+
+Name: Eddie Mast
+player_id:4580
+years played: 3
+
+Name: Frank Kendrick
+player_id:4585
+years played: 1
+
+Name: Ed Biedenbach
+player_id:4588
+years played: 1
+
+Name: Tom Barker
+player_id:4590
+years played: 2
+
+Name: Luther Green
+player_id:4594
+years played: 1
+
+Name: Marv Roberts
+player_id:4595
+years played: 1
+
+Name: Tom Kozelko
+player_id:4601
+years played: 3
+
+Name: Rich Johnson
+player_id:4603
+years played: 2
+
+Name: Gus Gerard
+player_id:4606
+years played: 5
+
+Name: Fred Carter
+player_id:4611
+years played: 8
+
+Name: Dave Wohl
+player_id:4612
+years played: 7
+
+Name: Dennis Awtrey
+player_id:4614
+years played: 12
+
+Name: Earl Williams
+player_id:4618
+years played: 4
+
+Name: Allie McGuire
+player_id:4619
+years played: 1
+
+Name: Bubbles Hawkins
+player_id:4624
+years played: 4
+
+Name: Mo Layton
+player_id:4627
+years played: 4
+
+Name: Bob Dandridge
+player_id:4639
+years played: 13
+
+Name: Dick Gibbs
+player_id:4640
+years played: 5
+
+Name: Ken Mayfield
+player_id:4641
+years played: 1
+
+Name: Marv Winkler
+player_id:4643
+years played: 1
+
+Name: Bobby Wilson
+player_id:4648
+years played: 4
+
+Name: E.C. Coleman
+player_id:4649
+years played: 6
+
+Name: Rich Jones
+player_id:4651
+years played: 1
+
+Name: Jerome Anderson
+player_id:4654
+years played: 2
+
+Name: Greg Smith
+player_id:4664
+years played: 8
+
+Name: Mike Lynn
+player_id:4665
+years played: 2
+
+Name: Bayard Forrest
+player_id:4667
+years played: 2
+
+Name: Jim Reid
+player_id:4679
+years played: 1
+
+Name: Wayman Britt
+player_id:4681
+years played: 1
+
+Name: C.J. Kupec
+player_id:4683
+years played: 3
+
+Name: Ralph Ogden
+player_id:4689
+years played: 1
+
+Name: Bill Stricker
+player_id:4690
+years played: 1
+
+Name: Frank Schade
+player_id:4696
+years played: 1
+
+Name: Al Hairston
+player_id:4697
+years played: 2
+
+Name: Plummer Lott
+player_id:4698
+years played: 2
+
+Name: Monte Towe
+player_id:4702
+years played: 1
+
+Name: Sid Catlett
+player_id:4706
+years played: 1
+
+Name: Steve Kuberski
+player_id:4727
+years played: 9
+
+Name: Luke Witte
+player_id:4735
+years played: 3
+
+Name: Phil Hicks
+player_id:4752
+years played: 2
+
+Name: Henry Bibby
+player_id:4760
+years played: 9
+
+Name: Jim Eakins
+player_id:4761
+years played: 2
+
+Name: Eric Fernsten
+player_id:4764
+years played: 6
+
+Name: Dave Scholz
+player_id:4765
+years played: 1
+
+Name: Randy Denton
+player_id:4766
+years played: 1
+
+Name: Lindsay Hairston
+player_id:4782
+years played: 1
+
+Name: Rich Jones
+player_id:4784
+years played: 1
+
+Name: Bernie Harris
+player_id:4793
+years played: 1
+
+Name: Dale Schlueter
+player_id:4800
+years played: 10
+
+Name: Ron Davis
+player_id:4801
+years played: 3
+
+Name: Roger Brown
+player_id:4804
+years played: 2
+
+Name: Larry Mikan
+player_id:4817
+years played: 1
+
+Name: Stan Washington
+player_id:4820
+years played: 1
+
+Name: Mark Sibley
+player_id:4821
+years played: 1
+
+Name: Paul Griffin
+player_id:4840
+years played: 7
+
+Name: George Karl
+player_id:4848
+years played: 2
+
+Name: Willie Wise
+player_id:4869
+years played: 2
+
+Name: Jake Ford
+player_id:4891
+years played: 2
+
+Name: George Thompson
+player_id:4892
+years played: 1
+
+Name: Levi Fontaine
+player_id:4895
+years played: 1
+
+Name: Wally Anderzunas
+player_id:4906
+years played: 1
+
+Name: Bob Allen
+player_id:4907
+years played: 1
+
+Name: Wilbur Holland
+player_id:4912
+years played: 4
+
+Name: Joe Pace
+player_id:4913
+years played: 2
+
+Name: Wil Jones
+player_id:4933
+years played: 2
+
+Name: John Coughran
+player_id:4939
+years played: 1
+
+Name: Odis Allison
+player_id:4946
+years played: 1
+
+Name: Ron Knight
+player_id:4959
+years played: 2
+
+Name: Owen Wells
+player_id:4962
+years played: 1
+
+Name: Edmund Lawrence
+player_id:4968
+years played: 1
+
+Name: John Arthurs
+player_id:4973
+years played: 1
+
+Name: Charles Dudley
+player_id:4986
+years played: 6
+
+Name: Chuck Williams
+player_id:4988
+years played: 2
+
+Name: Ed Manning
+player_id:4990
+years played: 4
+
+Name: George Johnson
+player_id:4995
+years played: 13
+
+Name: Dean Tolson
+player_id:4998
+years played: 3
+
+Name: Rowland Garrett
+player_id:5000
+years played: 5
+
+Name: George Carter
+player_id:5004
+years played: 1
+
+Name: Rick Adelman
+player_id:5022
+years played: 7
+
+Name: Andre McCarter
+player_id:5024
+years played: 3
+
+Name: Bob Riley
+player_id:5028
+years played: 1
+
+Name: Ed Searcy
+player_id:5031
+years played: 1
+
+Name: Gary Zeller
+player_id:5040
+years played: 1
+
+Name: Barry Nelson
+player_id:5051
+years played: 1
+
+Name: Dennis Bell
+player_id:5060
+years played: 3
+
+Name: Vic Bartolome
+player_id:5077
+years played: 1
+
+Name: Greg Jackson
+player_id:5082
+years played: 1
+
+Name: Gil McGregor
+player_id:5103
+years played: 1
+
+Name: Ben Clyde
+player_id:5107
+years played: 1
+
+Name: Mike Macaluso
+player_id:5120
+years played: 1
+
+Name: Mike Dunleavy
+player_id:5139
+years played: 11
+
+Name: Charles Johnson
+player_id:5145
+years played: 7
+
+Name: Dan Anderson
+player_id:5152
+years played: 2
+
+Name: Joe Cooke
+player_id:5168
+years played: 1
+
+Name: Joe Thomas
+player_id:5180
+years played: 1
+
+Name: Ed Biedenbach
+player_id:5187
+years played: 1
+
+Name: Art Collins
+player_id:5188
+years played: 1
+
+Name: Henry Ward
+player_id:5190
+years played: 1
+
+Name: Jake Jones
+player_id:5196
+years played: 1
+
+Name: Wardell Jackson
+player_id:5222
+years played: 1
+
+Name: John Williamson
+player_id:5223
+years played: 5
+
+Name: Barry Orms
+player_id:5227
+years played: 1
+
+Name: Ron Filipek
+player_id:5230
+years played: 1
+
+Name: Johnny Neumann
+player_id:5242
+years played: 2
+
+Name: Billy Paultz
+player_id:5271
+years played: 9
+
+Name: Andy Walker
+player_id:5287
+years played: 1
+
+Name: Charlie Scott
+player_id:5306
+years played: 8
+
+Name: Bob Arnzen
+player_id:5321
+years played: 1
+
+Name: Tim Bassett
+player_id:5342
+years played: 4
+
+Name: Claude English
+player_id:5350
+years played: 1
+
+Name: Rick Weitzman
+player_id:5357
+years played: 1
+
+Name: Phil Walker
+player_id:5358
+years played: 1
+
+Name: Mike Flynn
+player_id:5359
+years played: 2
+
+Name: Bernie Fryer
+player_id:5379
+years played: 1
+
+Name: Bob Christian
+player_id:5389
+years played: 4
+
+Name: Ralph Drollinger
+player_id:5403
+years played: 1
+
+Name: Mickey Davis
+player_id:5428
+years played: 5
+
+Name: Greg Lee
+player_id:5440
+years played: 1
+
+Name: Charlie Davis
+player_id:5457
+years played: 3
+
+Name: Ben Kelso
+player_id:5464
+years played: 1
+
+Name: George Reynolds
+player_id:5475
+years played: 1
+
+Name: Don Adams
+player_id:5478
+years played: 5
+
+Name: Nate Hawthorne
+player_id:5482
+years played: 3
+
+Name: Joe Kennedy
+player_id:5509
+years played: 2
+
+Name: Charlie Lowery
+player_id:5515
+years played: 1
+
+Name: Norton Barnhill
+player_id:5532
+years played: 1
+
+Name: Mike Riordan
+player_id:5541
+years played: 9
+
+Name: Steve Patterson
+player_id:5566
+years played: 5
+
+Name: Barry Yates
+player_id:5575
+years played: 1
+
+Name: Jim Owens
+player_id:5579
+years played: 2
+
+Name: Ben Kelso
+player_id:5580
+years played: 1
+
+Name: Dwight Waller
+player_id:5603
+years played: 1
+
+Name: Andre McCarter
+player_id:5609
+years played: 3
+
+Name: Herb White
+player_id:5612
+years played: 1
+
+Name: Jim Marsh
+player_id:5635
+years played: 1
+
+Name: Greg Fillmore
+player_id:5644
+years played: 2
+
+Name: Jim Bostic
+player_id:5655
+years played: 1
+
+Name: Goo Kennedy
+player_id:5657
+years played: 1
+
+Name: Harvey Catchings
+player_id:5677
+years played: 11
+
+Name: Perry Warbington
+player_id:5733
+years played: 1
+
+Name: Ron Boone
+player_id:5749
+years played: 5
+
+Name: Terry Thomas
+player_id:5770
+years played: 1
+
+Name: Jackie Dinkins
+player_id:5774
+years played: 1
+
+Name: Justus Thigpen
+player_id:5816
+years played: 2
+
+Name: Ken Boyd
+player_id:5822
+years played: 1
+
+Name: Roland West
+player_id:5851
+years played: 1
+
+Name: Al Skinner
+player_id:5873
+years played: 4
+
+Name: Bud Ogden
+player_id:5896
+years played: 2
+
+Name: Herm Gilliam
+player_id:5912
+years played: 8
+
+Name: Mark Minor
+player_id:5927
+years played: 1
+
+Name: Rod Derline
+player_id:5951
+years played: 2
+
+Name: Rod Freeman
+player_id:5952
+years played: 1
+
+Name: Fatty Taylor
+player_id:5980
+years played: 1
+
+Name: Bill Ligon
+player_id:5998
+years played: 1
+
+Name: Mike Barr
+player_id:6111
+years played: 1
+
+Name: Johnny Baum
+player_id:6220
+years played: 2
+
+Name: Mack Calvin
+player_id:6293
+years played: 4
+
+Name: Milt Williams
+player_id:6487
+years played: 3
+
+Name: Randy Smith
+player_id:6507
+years played: 12
+
+Name: Jim Garvin
+player_id:6534
+years played: 1
+
+Name: Grady O'Malley
+player_id:6750
+years played: 1
+
+Name: Brian Heaney
+player_id:6765
+years played: 1

@@ -20,8 +20,9 @@ for college, pick_hist in college_gpby:
             year = pick_hist['year'].iloc[i]
             if year >= start_year and year <= start_year + 4:
                 agg_stat = pick_hist['agg_stat'].iloc[i]
+                pick_num = pick_hist['pick'].iloc[i]
                 data[1] += agg_stat
-                data[2].append([pick_hist.index[i], agg_stat])
+                data[2].append([pick_hist.index[i], agg_stat, pick_num, year])
         college_data.append(data)
 
 def sort_helper(l):
@@ -31,12 +32,18 @@ college_data.sort(key=sort_helper)
 for i in range(1, 21):
     print(str(i) + '. College: ' + str(college_data[-i][0]))
     print('   Score: ' + str(college_data[-i][1]))
-    print('   Players')
     college_data[-i][2].sort(key=sort_helper, reverse=True)
+    s0 = '    '
+    s1 = 'Players (year, pick)'
+    s3 = 'AggStatScore'
+    print('{:<4s}{:<30s}{:>12s}'.format(s0, s1, s3))
     for j in range(len(college_data[-i][2])):
         name = college_data[-i][2][j][0]
         stat = str(round(100*college_data[-i][2][j][1])/100)
-        print('       ' + name + ' - ' + stat)
+        pick = str(college_data[-i][2][j][2])
+        year = str(college_data[-i][2][j][3])
+        name = name + ' (' + year + ', ' + pick + ')'
+        print('{:<4s}{:<30s}{:>12s}'.format(s0, name, stat))
     print('')
 
 # do analysis adjusting for average value of the pick

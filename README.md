@@ -1,1 +1,8 @@
-# nba-draft-history
+# NBA Draft History
+
+Scripts to scrape NBA draft history and player statistics from basketball-reference.com, pipeline the scraped data into a MySQL relational database, and do analysis of the dataset.
+
+**nba_draft_history**
+
+
+Scrapes the draft pages on basketball-reference.com for the years 1950 - 2019. Scrapes the per year statistics for each year in a player's career for any player drafter during the years 1967 - 2019 that played one or more years in the NBA.

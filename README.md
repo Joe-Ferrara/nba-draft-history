@@ -24,7 +24,7 @@ Scrapy project directory that records the urls of the player pages on basketball
 
 ``player_stats``
 
-Explanation coming soon.
+Scrapy project directory that scrapes the per year statistics on basketball-reference.com from the player pages for all the players drafted during the years 1967 - 2019 that played one season or more in the NBA.
 
 ------
 

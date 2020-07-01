@@ -2,6 +2,8 @@
 
 Scripts to scrape NBA draft history and player statistics from basketball-reference.com, pipeline the scraped data into a MySQL relational database, and do analysis of the dataset.
 
+Write-ups for the project: [NBA Draft History: The Aggregate Statistic](https://joe-ferrara.github.io/2020/06/28/nba-draft-history-1.html) and [NBA Draft History: The Best and Worst Teams at Drafting](https://joe-ferrara.github.io/2020/06/30/nba-draft-history-2.html).
+
 ------
 
 ``nba_draft_history``

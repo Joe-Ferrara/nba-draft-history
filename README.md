@@ -52,7 +52,7 @@ Scripts to create and maintaine a MySQL relational database for the above scrape
 
 ``five_year_period_analysis``
 
-``five_year_period_analysis/create_and_save_agg_stat.py`` - creates and records the **Agg** stat used in my draft analysis write up. Writes a csv file with the players drafted in the top 60 picks from 1969 to 2013. The csv file has for each player, his names, his college, the team that drafted him, the year he was drafted, the pick number he was, and his **Agg** stat. Also saves a histogram of the **Agg** statistic.
+``five_year_period_analysis/create_and_save_agg_stat.py`` - creates and records the **Agg** stat used in my draft analysis write up. Writes a csv file with the players drafted in the top 60 picks from 1969 to 2013. The csv file has for each player, his names, his college, the team that drafted him, the year he was drafted, the pick number he was, and his **Agg** stat. The csv created is titled ``draft_hist_with_agg_stat.csv`` and is used in other scripts. Also saves a histogram of the **Agg** statistic.
 
 ``five_year_period_analysis/stats_functions.py`` - some functions used in ``create_and_save_agg_stat.py``.
 
@@ -65,6 +65,14 @@ Scripts to create and maintaine a MySQL relational database for the above scrape
 ``college_picks/college_picks_each_year_since_67.py`` - records the top six colleges in terms of number of NBA players drafted since 1967. For each of the six colleges, creates a graph of the number of players drafted per year and saves the graph.
 
 ``college_picks/college_picks_top_teams_together.py`` - records the top six colleges in terms of number of NBA players drafted during the time periods 1967-1994, 1995-2019, and 1967-2019. For each time period graphs the total players drafted for each college over time and saves the graphs.
+
+------
+
+``general_draft_analysis``
+
+``general_draft_analysis/draft_pick_aves_and_best_draft.py`` - determines the average Agg of each draft pick 1 - 60 over the years 1967 - 2015, and determines the draft years with the highest total Agg for all players drafted.
+
+ ``general_draft_analysis/top_picks_by_AOA.py`` - produces a list of the top players drafted between 1967 and 2013 in terms of Agg over average (AOA).
 
 
 

@@ -2,7 +2,7 @@
 
 Scripts to scrape NBA draft history and player statistics from basketball-reference.com, pipeline the scraped data into a MySQL relational database, and do analysis of the dataset.
 
-Write-ups for the project: [NBA Draft History: The Aggregate Statistic](https://joe-ferrara.github.io/2020/06/28/nba-draft-history-1.html) and [NBA Draft History: The Best and Worst Teams at Drafting](https://joe-ferrara.github.io/2020/06/30/nba-draft-history-2.html).
+Write-ups for the project: [NBA Draft History: The Aggregate Statistic](https://joe-ferrara.github.io/2020/06/28/nba-draft-history-1.html), [NBA Draft History: The Best and Worst Teams at Drafting](https://joe-ferrara.github.io/2020/06/30/nba-draft-history-2.html), and [NBA Draft History: Best Colleges at Producing NBA Players](https://joe-ferrara.github.io/2020/07/15/nba-draft-history-3.html).
 
 ------
 
@@ -73,6 +73,3 @@ Scripts to create and maintaine a MySQL relational database for the above scrape
 ``general_draft_analysis/draft_pick_aves_and_best_draft.py`` - determines the average Agg of each draft pick 1 - 60 over the years 1967 - 2015, and determines the draft years with the highest total Agg for all players drafted.
 
  ``general_draft_analysis/top_picks_by_AOA.py`` - produces a list of the top players drafted between 1967 and 2013 in terms of Agg over average (AOA).
-
-
-
